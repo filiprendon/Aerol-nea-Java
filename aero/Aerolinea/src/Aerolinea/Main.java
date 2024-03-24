@@ -488,7 +488,6 @@ public class Main {
         double precioTotal;
         boolean comprobacionDeVuelo;
 
-
         do {
 
             System.out.println("Introduce el código del vuelo: ");
